@@ -1,0 +1,7 @@
+ca-certificates
+gh
+libevent
+ncurses
+openssl@1.1
+tmux
+utf8proc
